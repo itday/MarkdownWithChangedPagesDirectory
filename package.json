@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^0.20.1"
+  }
+}
